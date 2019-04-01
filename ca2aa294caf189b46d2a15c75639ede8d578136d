@@ -1,0 +1,8 @@
+Code-Review+2: Jea-Min, Lim <kor.jmlim@gmail.com>
+Workflow+1: Jea-Min, Lim <kor.jmlim@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 01 Apr 2019 05:34:46 +0000
+Reviewed-on: https://review.openstack.org/648901
+Project: openstack/ku.stella
+Branch: refs/heads/master

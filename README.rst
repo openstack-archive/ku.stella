@@ -17,7 +17,7 @@ Visit our project page for detailed information about Stella project.
 
         GitHub repo: https://github.com/KUoslab/Stella-OpenStack
 * Bugs
-        Email: starlab
+        Email: starlab@os.korea.ac.kr
 
         Lanchpad: https://bugs.launchpad.net/KU.stella
 
